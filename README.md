@@ -26,11 +26,11 @@ Cada ejercicio incluye:
 
 ```bash
 freeCodeCamp/        # Ejercicios diarios (freeCodeCamp)
-adventJS2025/        # Problemas de AdventJS creados por midudev
-adventJS2024/        # Problemas de AdventJS creados por midudev
-adventJS2023/        # Problemas de AdventJS creados por midudev
-adventJS2022/        # Problemas de AdventJS creados por midudev
-adventJS2021/        # Problemas de AdventJS creados por midudev
+adventJS2025/        # Problemas de AdventJS 2025 creados por midudev
+adventJS2024/        # Problemas de AdventJS 2024 creados por midudev
+adventJS2023/        # Problemas de AdventJS 2023 creados por midudev
+adventJS2022/        # Problemas de AdventJS 2022 creados por midudev
+adventJS2021/        # Problemas de AdventJS 2021 creados por midudev
 ```
 
 ---
