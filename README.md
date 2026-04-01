@@ -39,13 +39,13 @@ adventJS2021/        # Problemas de AdventJS 2021 creados por midudev
 <!-- START_PROGRESS -->
 | Categoría | Completados | Total | Progreso |
 |-----------|-------------|-------|----------|
-| 🟢 freeCodeCamp | 1 | 203 | 0.5% |
-| 🟡 AdventJS2025 | 1 | 25 | 4.0% |
+| 🟢 freeCodeCamp | 1 | 209 | 0.5% |
+| 🟡 AdventJS2025 | 0 | 25 | 0.0% |
 | 🔴 AdventJS2024 | 0 | 25 | 0.0% |
 | 🔵 AdventJS2023 | 0 | 25 | 0.0% |
 | 🟣 AdventJS2022 | 0 | 25 | 0.0% |
 | 🟠 AdventJS2021 | 0 | 25 | 0.0% |
-| **Total general** | **2** | **328** | **0.6%** |
+| **Total general** | **1** | **334** | **0.3%** |
 <!-- END_PROGRESS -->
 
 ---
